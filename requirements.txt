@@ -1,0 +1,7 @@
+opencv-python
+face_recognition
+numpy
+requests
+
+# python version must be 3.10
+# numpy version must be 1.26.4
